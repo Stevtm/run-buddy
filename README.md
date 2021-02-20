@@ -12,3 +12,5 @@ https://stevtm.github.io/run-buddy
 
 ## Contribution
 Made by Steven Maddison
+
+### ©️2019 Run Buddy, Inc 
