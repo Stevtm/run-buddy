@@ -1,16 +1,18 @@
 # Run Buddy, Inc
 
-## Purpose 
-A website that offers fitness training services
+A front-end website created for a fitness training service provider that includes a sign-up form, a description of the services, and contact information.
 
-## Built With
-* HTML
-* CSS
+The live application is deployed here: https://stevtm.github.io/run-buddy/
 
-## Website
-https://stevtm.github.io/run-buddy
+## Methodologies Used
 
-## Contribution
-Made by Steven Maddison
+- Interpreted a mockup from designers by dividing it into containers.
+- Followed accessability best practices.
+- Nested browser content from another page using `<iframe>`.
+- Created feature branches to allow multiple versions of the development environment to exist.
+- Used flexbox and media queries to make the page scaleable and responsive.
+- Used pseudo-classes to set different element states.
 
-### ©️2019 Run Buddy, Inc 
+## References
+
+Made as part of the UofT SCS Coding Bootcamp.
